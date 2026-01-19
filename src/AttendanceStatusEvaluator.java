@@ -1,5 +1,6 @@
 import java.utils.*;
 import java.util.Scanner.*;
+public class AttendanceStatusEvaluator{
 public static void main(String[] args){
   System.out.println("Enter the attendance: ");
   Scanner sc = new Scanner(System.in);
@@ -11,4 +12,4 @@ public static void main(String[] args){
   }else(n<60){
     System.out.println("Poor");
   }
-  
+}
