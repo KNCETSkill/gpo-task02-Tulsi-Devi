@@ -2,7 +2,6 @@
 import java.util.Scanner;
 public class AttendanceStatusEvaluator{
 public static void main(String[] args){
-  System.out.println("Enter the attendance: ");
   Scanner sc = new Scanner(System.in);
   int n = sc.nextInt();
   if(n<100 && n>85){
