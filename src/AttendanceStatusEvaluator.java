@@ -1,5 +1,5 @@
-java.utils*;
-java.util.Scanner*;
+Java.utils*;
+Java.util.Scanner*;
 public static void main(String[] args){
   System.out.println("Enter the attendance: ");
   Scanner sc = new Scanner(System.in);
