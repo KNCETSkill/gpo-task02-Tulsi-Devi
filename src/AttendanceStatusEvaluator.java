@@ -9,7 +9,7 @@ public static void main(String[] args){
     System.out.println("Excellent");
   }else if(n<=85 && n>=60){
     System.out.println("Satisfactory");
-  }else(n<60);{
+  }else{
     System.out.println("Poor");
   }
 }
