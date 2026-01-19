@@ -1,4 +1,4 @@
-import java.utils.*;
+
 import java.util.Scanner.*;
 public class AttendanceStatusEvaluator{
 public static void main(String[] args){
